@@ -1,0 +1,6 @@
+.boardRow {
+	box-sizing: content-box;
+	margin: 0;
+	padding: 0;
+	height: 150px;
+}
